@@ -2,3 +2,5 @@
 *.kml filter=lfs diff=lfs merge=lfs -text
 *.geojson filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/maltepe_poi.csv filter=lfs diff=lfs merge=lfs -text
+maltepe_poi.xlsx filter=lfs diff=lfs merge=lfs -text
